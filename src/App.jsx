@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>3. razred GVG</h1>
+      <h3>3. razred GVG</h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           brojač klikova: {count}
